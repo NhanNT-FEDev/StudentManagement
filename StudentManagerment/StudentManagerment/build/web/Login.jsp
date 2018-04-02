@@ -12,7 +12,7 @@
         <title>Login Page</title>
     </head>
     <body>
-        
+        <h1>Login Page</h1>
         <div>
             <form action="MainController" method="POST">
                 Username <input type="text" name="txtUsername" value=""  required/> <br/>
